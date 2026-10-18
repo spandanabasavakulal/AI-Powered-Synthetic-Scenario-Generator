@@ -2,6 +2,8 @@
 
 **UNSW-NB15 | Rare Attack Augmentation | Random Forest Model Comparison**
 
+## Demo Link - https://ai-powered-synthetic-scenario-generator-kiyksmjjc43xhyep6afjxt.streamlit.app/
+
 ## Project Overview
 
 The AI-Powered Synthetic Scenario Generator is a machine learning project designed to investigate whether synthetic data augmentation can improve the detection of rare cyberattacks in network intrusion detection systems.
